@@ -1,0 +1,916 @@
+# For some reason, iTerm2 only kept the following lines from the execution of nutri.py
+
+[67938] OK: Nutrition values written.
+[67947] LOG (67947_img_1.jpg): Tabla nutricional válida por 100 g procesada correctamente.
+[67947] OK: Nutrition values written.
+[67949] LOG (67949_img_1.jpg): Valor de azúcares registrado como 0 debido a que no se especifica otro valor.
+[67949] OK: Nutrition values written.
+[67950] LOG (67950_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[67950] OK: Nutrition values written.
+[67953] LOG (67953_img_1.jpg): Tabla nutricional válida por 100 g procesada correctamente.
+[67953] OK: Nutrition values written.
+[67968] LOG (67968_img_1.jpg): Conversión de 'Grasas/Lípidos' a 'grasas', 'de las cuales saturadas' a 'grasas_saturadas', 'Hidratos de Carbono' a 'carbohidratos', 'de los cuales azúcares' a 'azúcares', 'Proteínas' a 'proteinas', 'Sal' a 'sal'.
+[67968] OK: Nutrition values written.
+[67972] LOG (67972_img_1.jpg): Conversión de energía de kJ a kcal realizada. No se encontraron campos adicionales no contemplados.
+[67972] OK: Nutrition values written.
+[67977] LOG (67977_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores están dentro de los límites esperados.
+[67977] OK: Nutrition values written.
+[68029] LOG (68029_img_1.jpg): Conversión de sodio a sal realizada.
+[68029] OK: Nutrition values written.
+[68037] LOG (68037_img_1.jpg): sin tabla nutricional/no alimentario
+[68037] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[68106] LOG (68106_img_1.jpg): Información nutricional extraída correctamente.
+[68106] OK: Nutrition values written.
+[68116] LOG (68116_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores cumplen las validaciones.
+[68116] OK: Nutrition values written.
+[68130] LOG (68130_img_1.jpg): sin tabla nutricional/no alimentario
+[68130] LOG (68130_img_2.jpg): sin tabla nutricional/no alimentario
+[68130] LOG (68130_img_3.jpg): sin tabla nutricional/no alimentario
+[68130] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[68131] LOG (68131_img_1.jpg): sin tabla nutricional/no alimentario
+[68131] LOG (68131_img_2.jpg): sin tabla nutricional/no alimentario
+[68131] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[68137] LOG (68137_img_1.jpg): Conversión de 'Grasas/Lípidos' a 'grasas', 'de las cuales Saturadas' a 'grasas_saturadas', 'Hidratos de Carbono' a 'carbohidratos', 'de los cuales Azúcares' a 'azúcares'.
+[68137] OK: Nutrition values written.
+[68138] LOG (68138_img_1.jpg): Conversión de 'Grasas/Lípidos' a 'grasas', 'de las cuales Saturadas' a 'grasas_saturadas', 'Hidratos de Carbono' a 'carbohidratos', 'de los cuales Azúcares' a 'azúcares'.
+[68138] OK: Nutrition values written.
+[68149] LOG (68149_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores cumplen las validaciones.
+[68149] OK: Nutrition values written.
+[68170] LOG (68170_img_1.jpg): Conversión de 'Grasas/Lípidos' a 'grasas', 'de las cuales saturadas' a 'grasas_saturadas', 'Hidratos de Carbono' a 'carbohidratos', 'de los cuales azúcares' a 'azúcares'.
+[68170] OK: Nutrition values written.
+[68172] LOG (68172_img_1.jpg): Valores extraídos correctamente. Energía en kcal utilizada. No hay valores adicionales ni conversiones necesarias.
+[68172] OK: Nutrition values written.
+[68188] LOG (68188_img_1.jpg): Conversión de sodio a sal realizada.
+[68188] OK: Nutrition values written.
+[68204] OK: Nutrition values written.
+[68243] LOG (68243_img_1.jpg): Conversión de kJ a kcal realizada. No se encontraron anomalías.
+[68243] OK: Nutrition values written.
+[68265] LOG (68265_img_1.jpg): Valores extraídos correctamente. No se encontraron campos adicionales ni valores con '<'.
+[68265] OK: Nutrition values written.
+[68266] LOG (68266_img_1.jpg): Conversión de 'Sodio' a 'Sal' no necesaria. No se encontraron valores adicionales no contemplados.
+[68266] OK: Nutrition values written.
+[68271] LOG (68271_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores están dentro de los límites esperados.
+[68271] OK: Nutrition values written.
+[68322] LOG (68322_img_1.jpg): Valores extraídos correctamente. No se encontraron campos adicionales ni valores con '<'.
+[68322] OK: Nutrition values written.
+[68350] LOG (68350_img_1.jpg): Tabla nutricional válida por 100 g procesada correctamente.
+[68350] OK: Nutrition values written.
+[SAVE] Periodic save after 2500 rows → ./data/mercadona_food.csv
+[68354] OK: Nutrition values written.
+[68408] LOG (68408_img_1.jpg): sin tabla nutricional/no alimentario
+[68408] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[68435] LOG (68435_img_1.jpg): sin tabla nutricional/no alimentario
+[68435] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[68462] LOG (68462_img_1.jpg): sin tabla nutricional/no alimentario
+[68462] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[68853] LOG (68853_img_1.jpg): sin tabla nutricional/no alimentario
+[68853] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69079] LOG (69079_img_1.jpg): sin tabla nutricional/no alimentario
+[69079] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69089] LOG (69089_img_1.jpg): sin tabla nutricional/no alimentario
+[69089] LOG (69089_img_2.jpg): sin tabla nutricional/no alimentario
+[69089] LOG (69089_img_3.jpg): sin tabla nutricional/no alimentario
+[69089] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69098] LOG (69098_img_1.jpg): sin tabla nutricional/no alimentario
+[69098] LOG (69098_img_2.jpg): sin tabla nutricional/no alimentario
+[69098] LOG (69098_img_3.jpg): Sodio convertido a sal multiplicando por 2.5. Valor original de sodio: 0.015 g
+[69098] OK: Nutrition values written.
+[69099] LOG (69099_img_1.jpg): sin tabla nutricional/no alimentario
+[69099] LOG (69099_img_2.jpg): sin tabla nutricional/no alimentario
+[69099] LOG (69099_img_3.jpg): Valores de grasas saturadas y sal con '<' registrados como 0.03 y 0.02 respectivamente.
+[69099] LOG (69099_img_4.jpg): Valores de grasas y sal con '<' registrados como 0.5 y 0.1 respectivamente.
+[69099] CONFLICT: Resolved per-field via consensus/mean.
+[69099] RESOLVE valor_energético: mean of [70.0, 62.0] → 66
+[69099] RESOLVE grasas: mean of [0.1, 0.5] → 0.30
+[69099] RESOLVE grasas_saturadas: mean of [0.03, 0.1] → 0.07
+[69099] RESOLVE carbohidratos: mean of [15.7, 12.4] → 14.05
+[69099] RESOLVE azúcares: mean of [1.15, 2.0] → 1.57
+[69099] RESOLVE proteinas: mean of [2.4, 1.8] → 2.10
+[69099] RESOLVE sal: mean of [0.02, 0.1] → 0.06
+[69099] OK: Nutrition values written.
+[69114] LOG (69114_img_1.jpg): sin tabla nutricional/no alimentario
+[69114] LOG (69114_img_2.jpg): sin tabla nutricional/no alimentario
+[69114] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69117] LOG (69117_img_1.jpg): sin tabla nutricional/no alimentario
+[69117] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69121] LOG (69121_img_1.jpg): sin tabla nutricional/no alimentario
+[69121] LOG (69121_img_2.jpg): sin tabla nutricional/no alimentario
+[69121] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69122] LOG (69122_img_1.jpg): sin tabla nutricional/no alimentario
+[69122] LOG (69122_img_2.jpg): sin tabla nutricional/no alimentario
+[69122] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69139] LOG (69139_img_1.jpg): sin tabla nutricional/no alimentario
+[69139] LOG (69139_img_2.jpg): sin tabla nutricional/no alimentario
+[69139] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69155] LOG (69155_img_1.jpg): sin tabla nutricional/no alimentario
+[69155] LOG (69155_img_2.jpg): sin tabla nutricional/no alimentario
+[69155] LOG (69155_img_3.jpg): sin tabla nutricional/no alimentario
+[69155] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69162] LOG (69162_img_1.jpg): sin tabla nutricional/no alimentario
+[69162] LOG (69162_img_2.jpg): sin tabla nutricional/no alimentario
+[69162] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69166] LOG (69166_img_1.jpg): sin tabla nutricional/no alimentario
+[69166] LOG (69166_img_2.jpg): Sodio convertido a sal multiplicando por 2.5. Valor original de sodio: 0.015 g
+[69166] OK: Nutrition values written.
+[69245] LOG (69245_img_1.jpg): sin tabla nutricional/no alimentario
+[69245] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69275] LOG (69275_img_1.jpg): sin tabla nutricional/no alimentario
+[69275] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69286] LOG (69286_img_1.jpg): sin tabla nutricional/no alimentario
+[69286] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69287] LOG (69287_img_1.jpg): sin tabla nutricional/no alimentario
+[69287] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69289] LOG (69289_img_1.jpg): sin tabla nutricional/no alimentario
+[69289] LOG (69289_img_2.jpg): sin tabla nutricional/no alimentario
+[69289] LOG (69289_img_3.jpg): sin tabla nutricional/no alimentario
+[69289] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69297] LOG (69297_img_1.jpg): sin tabla nutricional/no alimentario
+[69297] LOG (69297_img_2.jpg): sin tabla nutricional/no alimentario
+[69297] LOG (69297_img_3.jpg): sin tabla nutricional/no alimentario
+[69297] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69383] LOG (69383_img_1.jpg): Información nutricional extraída correctamente.
+[69383] OK: Nutrition values written.
+[69386] LOG (69386_img_1.jpg): sin tabla nutricional/no alimentario
+[69386] LOG (69386_img_2.jpg): sin tabla nutricional/no alimentario
+[69386] LOG (69386_img_3.jpg): Sodio convertido a sal: 0.015g sodio * 2.5 = 0.0375g sal, redondeado a 0.04g
+[69386] LOG (69386_img_4.jpg): Sodio convertido a sal: 0.015g sodio * 2.5 = 0.0375g sal, redondeado a 0.04g
+[69386] OK: Nutrition values written.
+[69387] LOG (69387_img_1.jpg): sin tabla nutricional/no alimentario
+[69387] LOG (69387_img_2.jpg): sin tabla nutricional/no alimentario
+[69387] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69414] LOG (69414_img_1.jpg): Conversión de sodio a sal realizada. Valor de grasas saturadas es menor o igual a grasas. Valor de azúcares es menor o igual a carbohidratos.
+[69414] OK: Nutrition values written.
+[69423] LOG (69423_img_1.jpg): Conversión de energía de kJ a kcal realizada. Valor de grasas saturadas es 0, lo cual es válido.
+[69423] OK: Nutrition values written.
+[69433] LOG (69433_img_1.jpg): Tabla nutricional válida por 100 g. Energía en kcal extraída. No se encontraron valores adicionales no contemplados.
+[69433] OK: Nutrition values written.
+[69435] LOG (69435_img_1.jpg): Valores con '<': grasas <0.5 g, grasas saturadas <0.1 g, azúcares <0.5 g. Usados umbrales numéricos.
+[69435] LOG (69435_img_1.jpg): Campo adicional no contemplado: fibra alimentaria.
+[69435] OK: Nutrition values written.
+[69448] LOG (69448_img_1.jpg): sin tabla nutricional/no alimentario
+[69448] LOG (69448_img_2.jpg): sin tabla nutricional/no alimentario
+[69448] LOG (69448_img_3.jpg): Valor de grasas saturadas redondeado de 0.025 a 0.03. Valor de sal redondeado de 0.015 a 0.02.
+[69448] OK: Nutrition values written.
+[69461] LOG (69461_img_1.jpg): Valores extraídos correctamente. No se encontraron valores adicionales ni anomalías.
+[69461] OK: Nutrition values written.
+[69463] LOG (69463_img_1.jpg): Valor de grasas saturadas es 0.0, que es menor o igual a grasas 0.2. Valor de azúcares es 3.4, que es menor o igual a carbohidratos 6.6.
+[69463] OK: Nutrition values written.
+[69465] LOG (69465_img_1.jpg): Conversión de sodio a sal no necesaria. Valor energético en kcal extraído correctamente.
+[69465] LOG (69465_img_2.jpg): Sin tabla nutricional/no alimentario.
+[69465] OK: Nutrition values written.
+[69469] LOG (69469_img_1.jpg): Conversión de energía de kJ a kcal realizada. No se encontraron anomalías.
+[69469] OK: Nutrition values written.
+[69474] LOG (69474_img_1.jpg): Conversión de sodio a sal realizada.
+[69474] OK: Nutrition values written.
+[69484] LOG (69484_img_1.jpg): sin tabla nutricional/no alimentario
+[69484] LOG (69484_img_2.jpg): sin tabla nutricional/no alimentario
+[69484] LOG (69484_img_3.jpg): Valor energético en kJ no convertido. Valor de grasas saturadas registrado como 0.03 debido a '<' en la etiqueta.
+[69484] OK: Nutrition values written.
+[69495] LOG (69495_img_1.jpg): sin tabla nutricional/no alimentario
+[69495] LOG (69495_img_2.jpg): sin tabla nutricional/no alimentario
+[69495] LOG (69495_img_3.jpg): sin tabla nutricional/no alimentario
+[69495] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69519] LOG (69519_img_1.jpg): Valor de grasas saturadas registrado como <0.1 g, umbral usado: 0.1. Valor de azúcares registrado como <0.8 g, umbral usado: 0.8.
+[69519] OK: Nutrition values written.
+[69523] LOG (69523_img_1.jpg): Valores extraídos correctamente. No se encontraron anomalías.
+[69523] OK: Nutrition values written.
+[69581] LOG (69581_img_1.jpg): sin tabla nutricional/no alimentario
+[69581] LOG (69581_img_2.jpg): sin tabla nutricional/no alimentario
+[69581] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69582] LOG (69582_img_1.jpg): sin tabla nutricional/no alimentario
+[69582] LOG (69582_img_2.jpg): sin tabla nutricional/no alimentario
+[69582] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69585] LOG (69585_img_1.jpg): sin tabla nutricional/no alimentario
+[69585] LOG (69585_img_2.jpg): sin tabla nutricional/no alimentario
+[69585] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69586] LOG (69586_img_1.jpg): sin tabla nutricional/no alimentario
+[69586] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69590] LOG (69590_img_1.jpg): sin tabla nutricional/no alimentario
+[69590] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69591] LOG (69591_img_1.jpg): Valor energético en kJ no extraído. Valor de sal ajustado de 0.004 g a 0.01 g.
+[69591] LOG (69591_img_2.jpg): Valor energético en kJ no extraído. Conflicto en valores nutricionales entre imágenes.
+[69591] CONFLICT: Resolved per-field via consensus/mean.
+[69591] RESOLVE valor_energético: mean of [9.0, 20.0] → 14
+[69591] RESOLVE grasas: mean of [0.2, 0.5] → 0.35
+[69591] RESOLVE grasas_saturadas: mean of [0.04, 0.1] → 0.07
+[69591] RESOLVE carbohidratos: mean of [2.6, 2.5] → 2.55
+[69591] RESOLVE azúcares: mean of [0.7, 1.9] → 1.30
+[69591] RESOLVE proteinas: mean of [1.1, 1.0] → 1.05
+[69591] RESOLVE sal: consensus=0.01
+[69591] OK: Nutrition values written.
+[69616] LOG (69616_img_1.jpg): sin tabla nutricional/no alimentario
+[69616] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69622] LOG (69622_img_1.jpg): Valor de grasas saturadas es 0.0, que es menor o igual a grasas 0.4. Valor de azúcares es 1.7, que es igual a carbohidratos 1.7.
+[69622] OK: Nutrition values written.
+[69643] LOG (69643_img_1.jpg): sin tabla nutricional/no alimentario
+[69643] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69651] LOG (69651_img_1.jpg): sin tabla nutricional/no alimentario
+[69651] LOG (69651_img_2.jpg): sin tabla nutricional/no alimentario
+[69651] LOG (69651_img_3.jpg): sin tabla nutricional/no alimentario
+[69651] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69653] LOG (69653_img_1.jpg): sin tabla nutricional/no alimentario
+[69653] LOG (69653_img_2.jpg): sin tabla nutricional/no alimentario
+[69653] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69656] LOG (69656_img_1.jpg): sin tabla nutricional/no alimentario
+[69656] LOG (69656_img_3.jpg): sin tabla nutricional/no alimentario
+[69656] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69657] LOG (69657_img_1.jpg): sin tabla nutricional/no alimentario
+[69657] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69664] LOG (69664_img_1.jpg): sin tabla nutricional/no alimentario
+[69664] LOG (69664_img_2.jpg): sin tabla nutricional/no alimentario
+[69664] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69669] LOG (69669_img_1.jpg): sin tabla nutricional/no alimentario
+[69669] LOG (69669_img_2.jpg): sin tabla nutricional/no alimentario
+[69669] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69670] LOG (69670_img_1.jpg): Valor de grasas saturadas es 0, menor o igual a grasas 0.1. Valor de azúcares es 2.0, menor o igual a carbohidratos 3.0.
+[69670] LOG (69670_img_2.jpg): Valor de grasas saturadas es 0.1, menor o igual a grasas 0.5. Valor de azúcares es 1.7, menor o igual a carbohidratos 2.1.
+[69670] LOG (69670_img_3.jpg): Valor de grasas saturadas es 0.01, menor o igual a grasas 0.05. Valor de azúcares es 1.0, menor o igual a carbohidratos 1.1. Campos adicionales: Vitamina K, Ácido fólico.
+[69670] CONFLICT: Resolved per-field via consensus/mean.
+[69670] RESOLVE valor_energético: mean of [19.0, 13.0, 12.0] → 15
+[69670] RESOLVE grasas: mean of [0.1, 0.5, 0.05] → 0.22
+[69670] RESOLVE grasas_saturadas: mean of [0.0, 0.1, 0.01] → 0.04
+[69670] RESOLVE carbohidratos: mean of [3.0, 2.1, 1.1] → 2.07
+[69670] RESOLVE azúcares: mean of [2.0, 1.7, 1.0] → 1.57
+[69670] RESOLVE proteinas: mean of [0.9, 0.7, 0.9] → 0.83
+[69670] RESOLVE sal: mean of [0.03, 0.03, 0.07] → 0.04
+[69670] OK: Nutrition values written.
+[69672] LOG (69672_img_1.jpg): sin tabla nutricional/no alimentario
+[69672] LOG (69672_img_2.jpg): sin tabla nutricional/no alimentario
+[69672] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69690] LOG (69690_img_1.jpg): sin tabla nutricional/no alimentario
+[69690] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69695] LOG (69695_img_1.jpg): Conversión de sodio a sal no necesaria. Valores de grasas y grasas saturadas son 0, cumplen validación. Energía en kcal utilizada.
+[69695] OK: Nutrition values written.
+[69697] LOG (69697_img_1.jpg): Tabla nutricional procesada correctamente.
+[69697] OK: Nutrition values written.
+[69701] LOG (69701_img_1.jpg): Valores adicionales no contemplados: fibra alimentaria, vitamina C, vitamina A, calcio, hierro.
+[69701] OK: Nutrition values written.
+[69706] LOG (69706_img_1.jpg): Valor de grasas saturadas registrado como <0.1 g. Valor de grasas registrado como <0.5 g.
+[69706] OK: Nutrition values written.
+[69714] LOG (69714_img_2.jpg): sin tabla nutricional/no alimentario
+[69714] OK: Nutrition values written.
+[69719] LOG (69719_img_1.jpg): Conversión de energía de kJ a kcal realizada. No se encontraron valores adicionales no contemplados.
+[69719] OK: Nutrition values written.
+[69720] LOG (69720_img_1.jpg): Valor de grasas registrado como 0.5 debido a '<0.5'.
+[69720] LOG (69720_img_2.jpg): Valores inconsistentes entre imágenes: valor_energético, grasas, carbohidratos, azúcares, proteinas, sal.
+[69720] CONFLICT: Resolved per-field via consensus/mean.
+[69720] RESOLVE valor_energético: mean of [22.0, 26.0] → 24
+[69720] RESOLVE grasas: mean of [0.5, 0.3] → 0.40
+[69720] RESOLVE grasas_saturadas: consensus=0.0
+[69720] RESOLVE carbohidratos: mean of [2.9, 2.4] → 2.65
+[69720] RESOLVE azúcares: mean of [2.8, 0.7] → 1.75
+[69720] RESOLVE proteinas: mean of [1.2, 1.5] → 1.35
+[69720] RESOLVE sal: mean of [0.3, 0.08] → 0.19
+[69720] OK: Nutrition values written.
+[69722] LOG (69722_img_1.jpg): Conversión de energía de kJ a kcal realizada. Valor de grasas saturadas es 0, lo cual es válido.
+[69722] OK: Nutrition values written.
+[69725] LOG (69725_img_1.jpg): Tabla nutricional válida por 100 g procesada correctamente.
+[69725] OK: Nutrition values written.
+[69730] LOG (69730_img_1.jpg): Valor de sodio convertido a sal.
+[69730] OK: Nutrition values written.
+[69737] LOG (69737_img_1.jpg): Conversión de sodio a sal realizada.
+[69737] OK: Nutrition values written.
+[69741] LOG (69741_img_1.jpg): Valor de grasas registrado como 0.5 debido a '<0.5'.
+[69741] LOG (69741_img_2.jpg): Valores de energía en kJ no convertidos. Conflicto de valores entre imágenes: energía, grasas, grasas saturadas, carbohidratos, azúcares, proteínas, sal.
+[69741] CONFLICT: Resolved per-field via consensus/mean.
+[69741] RESOLVE valor_energético: mean of [21.0, 26.0] → 24
+[69741] RESOLVE grasas: mean of [0.5, 0.3] → 0.40
+[69741] RESOLVE grasas_saturadas: mean of [0.1, 0.0] → 0.05
+[69741] RESOLVE carbohidratos: mean of [2.2, 3.1] → 2.65
+[69741] RESOLVE azúcares: mean of [1.9, 0.5] → 1.20
+[69741] RESOLVE proteinas: mean of [1.5, 1.4] → 1.45
+[69741] RESOLVE sal: mean of [0.16, 0.06] → 0.11
+[69741] OK: Nutrition values written.
+[69742] LOG (69742_img_1.jpg): Información nutricional extraída correctamente.
+[69742] OK: Nutrition values written.
+[69744] LOG (69744_img_1.jpg): Valor energético en kJ no convertido. Valor de grasas saturadas menor o igual a grasas. Valor de azúcares menor o igual a carbohidratos.
+[69744] LOG (69744_img_2.jpg): Valor energético en kJ no convertido. Valor de grasas saturadas menor o igual a grasas. Valor de azúcares menor o igual a carbohidratos. Valor de grasas registrado como 0.5 debido a '<0.5'.
+[69744] CONFLICT: Resolved per-field via consensus/mean.
+[69744] RESOLVE valor_energético: mean of [26.0, 21.0] → 24
+[69744] RESOLVE grasas: mean of [0.3, 0.5] → 0.40
+[69744] RESOLVE grasas_saturadas: mean of [0.0, 0.1] → 0.05
+[69744] RESOLVE carbohidratos: mean of [3.1, 2.2] → 2.65
+[69744] RESOLVE azúcares: mean of [0.5, 1.9] → 1.20
+[69744] RESOLVE proteinas: mean of [1.4, 1.5] → 1.45
+[69744] RESOLVE sal: mean of [0.06, 0.16] → 0.11
+[69744] OK: Nutrition values written.
+[69753] LOG (69753_img_1.jpg): Energía en kJ no extraída. Campo adicional: fibra alimentaria, vitamina C, ácido fólico, calcio.
+[69753] OK: Nutrition values written.
+[69756] LOG (69756_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores están dentro de los límites esperados.
+[69756] OK: Nutrition values written.
+[69757] LOG (69757_img_1.jpg): Conversión de sodio a sal realizada.
+[69757] LOG (69757_img_2.jpg): Conversión de sodio a sal realizada.
+[69757] LOG (69757_img_1.jpg): Valores de vitamina A no incluidos en el esquema JSON.
+[69757] LOG (69757_img_2.jpg): Valores de ácido fólico no incluidos en el esquema JSON.
+[69757] CONFLICT: Resolved per-field via consensus/mean.
+[69757] RESOLVE valor_energético: mean of [24.0, 27.0] → 26
+[69757] RESOLVE grasas: mean of [0.3, 0.9] → 0.60
+[69757] RESOLVE grasas_saturadas: consensus=0.0
+[69757] RESOLVE carbohidratos: mean of [2.8, 1.2] → 2.00
+[69757] RESOLVE azúcares: mean of [0.7, 0.0] → 0.35
+[69757] RESOLVE proteinas: mean of [1.8, 2.6] → 2.20
+[69757] RESOLVE sal: mean of [0.1, 0.24] → 0.17
+[69757] OK: Nutrition values written.
+[69810] LOG (69810_img_1.jpg): Valor energético solo en kJ, registrado como 24 kcal. Valor de grasas saturadas registrado como 0. Campo adicional: fibra alimentaria.
+[69810] OK: Nutrition values written.
+[69840] LOG (69840_img_1.jpg): Grasas registradas como 0.5 debido a valor '<0.5'.
+[69840] OK: Nutrition values written.
+[69849] LOG (69849_img_1.jpg): Información nutricional extraída correctamente.
+[69849] OK: Nutrition values written.
+[69850] LOG (69850_img_1.jpg): Tabla nutricional válida por 100 g procesada correctamente.
+[69850] OK: Nutrition values written.
+[69853] LOG (69853_img_1.jpg): sin tabla nutricional/no alimentario
+[69853] LOG (69853_img_2.jpg): sin tabla nutricional/no alimentario
+[69853] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69872] OK: Nutrition values written.
+[69876] LOG (69876_img_1.jpg): sin tabla nutricional/no alimentario
+[69876] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69877] LOG (69877_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores están dentro de los límites esperados.
+[69877] OK: Nutrition values written.
+[69878] LOG (69878_img_1.jpg): sin tabla nutricional/no alimentario
+[69878] LOG (69878_img_2.jpg): sin tabla nutricional/no alimentario
+[69878] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69881] LOG (69881_img_1.jpg): sin tabla nutricional/no alimentario
+[69881] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69884] LOG (69884_img_1.jpg): Información nutricional extraída correctamente.
+[69884] OK: Nutrition values written.
+[69889] LOG (69889_img_1.jpg): sin tabla nutricional/no alimentario
+[69889] LOG (69889_img_2.jpg): sin tabla nutricional/no alimentario
+[69889] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69930] LOG (69930_img_1.jpg): Sodio convertido a sal (0.0 g).
+[69930] LOG (69930_img_2.jpg): Sin tabla nutricional/no alimentario.
+[69930] OK: Nutrition values written.
+[69938] LOG (69938_img_1.jpg): Información nutricional extraída correctamente.
+[69938] OK: Nutrition values written.
+[69964] LOG (69964_img_1.jpg): sin tabla nutricional/no alimentario
+[69964] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69971] LOG (69971_img_1.jpg): sin tabla nutricional/no alimentario
+[69971] LOG (69971_img_2.jpg): sin tabla nutricional/no alimentario
+[69971] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69975] LOG (69975_img_1.jpg): sin tabla nutricional/no alimentario
+[69975] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[69984] LOG (69984_img_1.jpg): Valor energético convertido de kJ a kcal. Campo adicional: Fibra alimentaria.
+[69984] OK: Nutrition values written.
+[69990] LOG (69990_img_1.jpg): Sodio convertido a sal: 0.0 g
+[69990] LOG (69990_img_3.jpg): Sin tabla nutricional/no alimentario
+[69990] OK: Nutrition values written.
+[70636] LOG (70636_img_1.jpg): Valor de sal registrado como 0.01 debido a '<0,01'.
+[70636] OK: Nutrition values written.
+[70652] LOG (70652_img_1.jpg): Conversión de 'Grasas/Lípidos' a 'grasas'. Conversión de 'de las cuales saturadas' a 'grasas_saturadas'. Conversión de 'Hidratos de Carbono' a 'carbohidratos'. Conversión de 'de los cuales azúcares' a 'azúcares'. Conversión de 'Proteínas' a 'proteinas'. Conversión de 'Sal' a 'sal'.
+[70652] OK: Nutrition values written.
+[70711] LOG (70711_img_1.jpg): Tabla nutricional válida por 100 g procesada correctamente.
+[70711] OK: Nutrition values written.
+[70727] LOG (70727_img_1.jpg): Sin tabla nutricional por 100 g.
+[70727] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[70740] LOG (70740_img_1.jpg): Tabla nutricional válida por 100 g procesada correctamente.
+[70740] OK: Nutrition values written.
+[70741] LOG (70741_img_1.jpg): Tabla nutricional válida por 100 ml, valores asumidos como por 100 g debido a la naturaleza del producto.
+[70741] OK: Nutrition values written.
+[SAVE] Periodic save after 2600 rows → ./data/mercadona_food.csv
+[70744] OK: Nutrition values written.
+[70745] LOG (70745_img_1.jpg): Valores extraídos correctamente. No se encontraron valores adicionales no contemplados.
+[70745] OK: Nutrition values written.
+[70756] LOG (70756_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores están dentro de los límites esperados.
+[70756] OK: Nutrition values written.
+[73249] LOG (73249_img_1.jpg): Conversión de 'Grasas/Lípidos' a 'grasas'. Conversión de 'Hidratos de Carbono' a 'carbohidratos'. Conversión de 'Azúcares' a 'azúcares'. Conversión de 'Proteínas' a 'proteinas'. Conversión de 'Sal' a 'sal'.
+[73249] OK: Nutrition values written.
+[73331] LOG (73331_img_1.jpg): Valores extraídos correctamente. No se encontraron campos adicionales ni valores con '<'.
+[73331] OK: Nutrition values written.
+[73395] LOG (73395_img_1.jpg): Conversión de 'Grasas/Lípidos' a 'grasas'. Conversión de 'de las cuales saturadas' a 'grasas_saturadas'. Conversión de 'Hidratos de Carbono' a 'carbohidratos'. Conversión de 'de los cuales azúcares' a 'azúcares'.
+[73395] OK: Nutrition values written.
+[80057] LOG (80057_img_1.jpg): Conversión de kJ a kcal realizada. No hay campos adicionales ni valores con '<'.
+[80057] OK: Nutrition values written.
+[80177] LOG (80177_img_1.jpg): Conversión de kJ a kcal realizada. No se encontraron valores adicionales no contemplados.
+[80177] OK: Nutrition values written.
+[80291] LOG (80291_img_1.jpg): Tabla nutricional válida por 100 g procesada correctamente.
+[80291] OK: Nutrition values written.
+[80292] LOG (80292_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[80292] OK: Nutrition values written.
+[80293] LOG (80293_img_1.jpg): sin tabla nutricional/no alimentario
+[80293] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[80405] LOG (80405_img_1.jpg): Valores extraídos de la columna '100 g neto'.
+[80405] OK: Nutrition values written.
+[80412] LOG (80412_img_1.jpg): Valores extraídos de la tabla por 100 g neto. No se reportaron valores adicionales no contemplados.
+[80412] OK: Nutrition values written.
+[80418] LOG (80418_img_1.jpg): Valores adicionales no contemplados: Omega-3. Energía también expresada en kJ.
+[80418] OK: Nutrition values written.
+[80450] LOG (80450_img_1.jpg): Tabla nutricional válida por 100 g procesada correctamente.
+[80450] OK: Nutrition values written.
+[80476] LOG (80476_img_1.jpg): Tabla nutricional por 100 g procesada correctamente.
+[80476] OK: Nutrition values written.
+[80478] LOG (80478_img_1.jpg): Valores extraídos correctamente. No se encontraron anomalías.
+[80478] OK: Nutrition values written.
+[80492] LOG (80492_img_1.jpg): Conversión de energía de kJ a kcal realizada. No se encontraron valores adicionales no contemplados.
+[80492] OK: Nutrition values written.
+[80515] LOG (80515_img_1.jpg): Tabla nutricional válida por 100 g procesada correctamente.
+[80515] OK: Nutrition values written.
+[80531] LOG (80531_img_1.jpg): Tabla nutricional válida por 100 g procesada correctamente.
+[80531] OK: Nutrition values written.
+[80771] OK: Nutrition values written.
+[80781] LOG (80781_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[80781] OK: Nutrition values written.
+[80782] LOG (80782_img_1.jpg): Energía convertida de kJ a kcal. No se encontraron valores adicionales no contemplados.
+[80782] OK: Nutrition values written.
+[80784] LOG (80784_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[80784] OK: Nutrition values written.
+[80794] LOG (80794_img_1.jpg): Conversión de 'Grasas/Lípidos' a 'grasas'. Conversión de 'de las cuales saturadas' a 'grasas_saturadas'. Conversión de 'Hidratos de Carbono' a 'carbohidratos'. Conversión de 'de los cuales azúcares' a 'azúcares'.
+[80794] OK: Nutrition values written.
+[80795] OK: Nutrition values written.
+[80858] LOG (80858_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[80858] OK: Nutrition values written.
+[80859] LOG (80859_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[80859] OK: Nutrition values written.
+[80862] LOG (80862_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[80862] OK: Nutrition values written.
+[80870] LOG (80870_img_1.jpg): Conversión de 'Grasas/Lípidos' a 'grasas'. Conversión de 'Saturadas' a 'grasas_saturadas'. Conversión de 'Hidratos de Carbono' a 'carbohidratos'. Conversión de 'Azúcares' a 'azúcares'. Conversión de 'Proteínas' a 'proteinas'. Conversión de 'Sodio' a 'sal'.
+[80870] OK: Nutrition values written.
+[80892] LOG (80892_img_1.jpg): Conversión de 'sodio' a 'sal' no necesaria. Todos los valores extraídos correctamente.
+[80892] OK: Nutrition values written.
+[80894] LOG (80894_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[80894] OK: Nutrition values written.
+[80895] LOG (80895_img_1.jpg): Información nutricional extraída correctamente.
+[80895] OK: Nutrition values written.
+[80939] LOG (80939_img_1.jpg): Conversión de 'Sodio' a 'Sal' no necesaria. Todos los valores extraídos correctamente.
+[80939] OK: Nutrition values written.
+[80942] OK: Nutrition values written.
+[80980] LOG (80980_img_1.jpg): Campo adicional detectado: Fibra alimentaria.
+[80980] OK: Nutrition values written.
+[81416] LOG (81416_img_1.jpg): sin tabla nutricional/no alimentario
+[81416] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[81418] LOG (81418_img_1.jpg): sin tabla nutricional/no alimentario
+[81418] LOG (81418_img_2.jpg): sin tabla nutricional/no alimentario
+[81418] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[81422] LOG (81422_img_1.jpg): sin tabla nutricional/no alimentario
+[81422] LOG (81422_img_2.jpg): sin tabla nutricional/no alimentario
+[81422] LOG (81422_img_3.jpg): sin tabla nutricional/no alimentario
+[81422] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[81443] LOG (81443_img_1.jpg): sin tabla nutricional/no alimentario
+[81443] LOG (81443_img_2.jpg): sin tabla nutricional/no alimentario
+[81443] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[81467] LOG (81467_img_1.jpg): sin tabla nutricional/no alimentario
+[81467] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[82007] LOG (82007_img_1.jpg): Conversión de energía de kJ a kcal realizada. Campo adicional 'fibra alimentaria' no incluido en el JSON.
+[82007] OK: Nutrition values written.
+[82032] LOG (82032_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[82032] OK: Nutrition values written.
+[82070] LOG (82070_img_1.jpg): Conversión de energía de kJ a kcal realizada. No se encontraron campos adicionales no contemplados.
+[82070] OK: Nutrition values written.
+[82090] LOG (82090_img_1.jpg): Conversión de sodio a sal realizada.
+[82090] OK: Nutrition values written.
+[82098] LOG (82098_img_1.jpg): Tabla nutricional válida por 100 g procesada correctamente.
+[82098] OK: Nutrition values written.
+[82099] LOG (82099_img_1.jpg): Tabla nutricional válida por 100 g procesada correctamente.
+[82099] OK: Nutrition values written.
+[82117] LOG (82117_img_1.jpg): Conversión de energía de kJ a kcal realizada. No se encontraron valores adicionales no contemplados.
+[82117] OK: Nutrition values written.
+[82130] LOG (82130_img_1.jpg): Conversión de sodio a sal realizada.
+[82130] OK: Nutrition values written.
+[82150] LOG (82150_img_1.jpg): Valor de azúcares registrado como umbral <0.5.
+[82150] OK: Nutrition values written.
+[SAVE] Periodic save after 2650 rows → ./data/mercadona_food.csv
+[82190] LOG (82190_img_1.jpg): Conversión de energía de kJ a kcal realizada. No se encontraron anomalías.
+[82190] OK: Nutrition values written.
+[82199] LOG (82199_img_1.jpg): Conversión de kJ a kcal realizada. No se encontraron campos adicionales no contemplados.
+[82199] OK: Nutrition values written.
+[82219] LOG (82219_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[82219] OK: Nutrition values written.
+[82221] LOG (82221_img_1.jpg): Conversión de energía de kJ a kcal realizada. No se encontraron anomalías.
+[82221] OK: Nutrition values written.
+[82222] LOG (82222_img_1.jpg): Conversión de sodio a sal realizada.
+[82222] OK: Nutrition values written.
+[82227] LOG (82227_img_1.jpg): Tabla nutricional válida por 100 g procesada correctamente.
+[82227] OK: Nutrition values written.
+[82277] LOG (82277_img_1.jpg): Conversión de energía de kJ a kcal realizada. No se encontraron valores adicionales no contemplados.
+[82277] OK: Nutrition values written.
+[82279] LOG (82279_img_1.jpg): Conversión de energía de kJ a kcal realizada.
+[82279] OK: Nutrition values written.
+[82287] OK: Nutrition values written.
+[82290] LOG (82290_img_1.jpg): Conversión de 'Energético/Energia' a kcal realizada correctamente. No se encontraron valores adicionales no contemplados.
+[82290] OK: Nutrition values written.
+[82295] LOG (82295_img_1.jpg): Conversión de 'Grasas/Lípidos' a 'grasas', 'Hidratos de Carbono' a 'carbohidratos', 'Proteínas' a 'proteinas'.
+[82295] OK: Nutrition values written.
+[82302] LOG (82302_img_1.jpg): Tabla nutricional válida por 100 g procesada correctamente.
+[82302] OK: Nutrition values written.
+[82322] LOG (82322_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[82322] OK: Nutrition values written.
+[82324] LOG (82324_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[82324] OK: Nutrition values written.
+[82326] LOG (82326_img_1.jpg): Conversión de sodio a sal no necesaria. Energía en kJ no extraída. Valores consistentes entre tablas.
+[82326] OK: Nutrition values written.
+[82328] LOG (82328_img_1.jpg): Conversión de 'Grasas/Lípidos' a 'grasas', 'de las cuales saturadas' a 'grasas_saturadas', 'Hidratos de Carbono' a 'carbohidratos', 'de los cuales azúcares' a 'azúcares'.
+[82328] OK: Nutrition values written.
+[82331] LOG (82331_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[82331] OK: Nutrition values written.
+[82332] LOG (82332_img_1.jpg): Conversión de 'Grasas/Lípidos' a 'grasas', 'Hidratos de Carbono' a 'carbohidratos', 'de las cuales saturadas' a 'grasas_saturadas', 'de los cuales azúcares' a 'azúcares'.
+[82332] OK: Nutrition values written.
+[82352] LOG (82352_img_1.jpg): Tabla nutricional válida por 100 g. No se encontraron anomalías.
+[82352] OK: Nutrition values written.
+[82365] LOG (82365_img_1.jpg): Energía en kJ no extraída, solo se usó kcal.
+[82365] OK: Nutrition values written.
+[82412] LOG (82412_img_1.jpg): Conversión de 'Grasas/Lípidos' a 'grasas'. Conversión de 'de las cuales saturadas' a 'grasas_saturadas'. Conversión de 'Hidratos de Carbono' a 'carbohidratos'. Conversión de 'de los cuales azúcares' a 'azúcares'.
+[82412] OK: Nutrition values written.
+[82417] LOG (82417_img_1.jpg): Conversión de energía de kJ a kcal realizada. No se encontraron valores adicionales no contemplados.
+[82417] OK: Nutrition values written.
+[82439] LOG (82439_img_1.jpg): Conversión de 'Grasas/Lípidos' a 'grasas'. Conversión de 'Saturados/Saturados' a 'grasas_saturadas'. Conversión de 'Hidratos de Carbono' a 'carbohidratos'. Conversión de 'Azúcares/Azúcares' a 'azúcares'. Conversión de 'Sal' a 'sal'.
+[82439] OK: Nutrition values written.
+[82464] LOG (82464_img_1.jpg): Conversión de energía de kJ a kcal realizada. No se encontraron valores adicionales no contemplados.
+[82464] OK: Nutrition values written.
+[82551] LOG (82551_img_1.jpg): Conversión de 'Grasas/Lípidos' a 'grasas'. Conversión de 'Hidratos de Carbono' a 'carbohidratos'. Conversión de 'de los cuales azúcares' a 'azúcares'.
+[82551] OK: Nutrition values written.
+[82585] LOG (82585_img_1.jpg): Valor energético en kJ no extraído. Conversión de sodio a sal realizada.
+[82585] OK: Nutrition values written.
+[82599] LOG (82599_img_1.jpg): Tabla nutricional válida por 100 g procesada correctamente.
+[82599] OK: Nutrition values written.
+[82609] LOG (82609_img_1.jpg): Conversión de sodio a sal no necesaria. Energía en kcal utilizada. No se encontraron valores adicionales no contemplados.
+[82609] OK: Nutrition values written.
+[82626] LOG (82626_img_1.jpg): Valores extraídos correctamente. No se encontraron anomalías.
+[82626] OK: Nutrition values written.
+[82651] LOG (82651_img_1.jpg): Conversión de energía de kJ a kcal realizada. Valor de azúcares registrado como umbral <0.5.
+[82651] OK: Nutrition values written.
+[82655] LOG (82655_img_1.jpg): Tabla nutricional válida por 100 g procesada correctamente.
+[82655] OK: Nutrition values written.
+[82665] LOG (82665_img_1.jpg): Tabla nutricional válida por 100 g procesada correctamente.
+[82665] OK: Nutrition values written.
+[82699] LOG (82699_img_1.jpg): Conversión de 'Sodio' a 'Sal' no necesaria. Todos los valores están dentro de los límites esperados.
+[82699] OK: Nutrition values written.
+[82728] LOG (82728_img_1.jpg): Conversión de sodio a sal no necesaria. Campo adicional: fibra alimentaria.
+[82728] OK: Nutrition values written.
+[82731] LOG (82731_img_1.jpg): Información nutricional extraída correctamente.
+[82731] OK: Nutrition values written.
+[82732] LOG (82732_img_1.jpg): Conversión de 'Lípidos' a 'grasas'. Conversión de 'de los cuales saturadas' a 'grasas_saturadas'. Conversión de 'Hidratos de Carbono' a 'carbohidratos'. Conversión de 'de los cuales azúcares' a 'azúcares'.
+[82732] OK: Nutrition values written.
+[82735] LOG (82735_img_1.jpg): Conversión de 'Lípidos' a 'Grasas'.
+[82735] OK: Nutrition values written.
+[82744] LOG (82744_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[82744] OK: Nutrition values written.
+[82753] LOG (82753_img_1.jpg): Tabla nutricional válida por 100 g encontrada y procesada.
+[82753] OK: Nutrition values written.
+[82757] LOG (82757_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[82757] OK: Nutrition values written.
+[82765] LOG (82765_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[82765] OK: Nutrition values written.
+[82770] LOG (82770_img_1.jpg): Conversión de sodio a sal realizada.
+[82770] OK: Nutrition values written.
+[82772] LOG (82772_img_1.jpg): Conversión de energía de kJ a kcal realizada. No se encontraron campos adicionales no contemplados.
+[82772] OK: Nutrition values written.
+[82773] LOG (82773_img_1.jpg): Campo adicional 'fibra alimentaria' no contemplado en el JSON schema.
+[82773] OK: Nutrition values written.
+[82786] LOG (82786_img_1.jpg): Tabla nutricional válida por 100 g procesada correctamente.
+[82786] OK: Nutrition values written.
+[82787] LOG (82787_img_1.jpg): Tabla nutricional válida por 100 g procesada correctamente.
+[82787] OK: Nutrition values written.
+[82788] LOG (82788_img_1.jpg): Información nutricional extraída correctamente.
+[82788] OK: Nutrition values written.
+[82830] CONFLICT: Filenames do not match pattern or share same product ID → ['82830.2_img_1.jpg']
+[82830] CONFLICT: Filenames do not match pattern or share same product ID → ['82830.1_img_1.jpg']
+[82839] LOG (82839_img_1.jpg): Valor de grasas saturadas registrado como <0.5 g, umbral usado: 0.5. Valor de sal registrado como <1.68 g, umbral usado: 1.68.
+[82839] OK: Nutrition values written.
+[SAVE] Periodic save after 2700 rows → ./data/mercadona_food.csv
+[82842] LOG (82842_img_1.jpg): Conversión de energía de kJ a kcal realizada. No se encontraron anomalías.
+[82842] OK: Nutrition values written.
+[82892] LOG (82892_img_1.jpg): Conversión de energía de kJ a kcal realizada. No se encontraron valores adicionales no contemplados.
+[82892] OK: Nutrition values written.
+[82905] LOG (82905_img_1.jpg): Conversión de sodio a sal no necesaria. Validación correcta: grasas_saturadas ≤ grasas, azúcares ≤ carbohidratos.
+[82905] OK: Nutrition values written.
+[82908] LOG (82908_img_1.jpg): Información nutricional extraída correctamente.
+[82908] OK: Nutrition values written.
+[82920] LOG (82920_img_1.jpg): Valor de azúcares registrado como <0.5 g, umbral usado: 0.3.
+[82920] OK: Nutrition values written.
+[82931] LOG (82931_img_1.jpg): Valor de azúcares registrado como 9.8 g. Valor de sal registrado como 0.61 g.
+[82931] OK: Nutrition values written.
+[82932] LOG (82932_img_1.jpg): Valores extraídos correctamente. No se encontraron campos adicionales no contemplados.
+[82932] OK: Nutrition values written.
+[82933] LOG (82933_img_1.jpg): Tabla nutricional por 100 g procesada correctamente.
+[82933] OK: Nutrition values written.
+[82938] LOG (82938_img_1.jpg): Conversión de 'Grasas/Lípidos' a 'grasas', 'de las cuales saturadas' a 'grasas_saturadas', 'Hidratos de Carbono' a 'carbohidratos', 'de los cuales azúcares' a 'azúcares'.
+[82938] OK: Nutrition values written.
+[83056] LOG (83056_img_1.jpg): Conversión de kJ a kcal realizada. No se encontraron valores adicionales no contemplados.
+[83056] OK: Nutrition values written.
+[83202] CONFLICT: Filenames do not match pattern or share same product ID → ['83202.2_img_1.jpg']
+[83202] CONFLICT: Filenames do not match pattern or share same product ID → ['83202.1_img_1.jpg']
+[83203] CONFLICT: Filenames do not match pattern or share same product ID → ['83203.2_img_1.jpg']
+[83203] CONFLICT: Filenames do not match pattern or share same product ID → ['83203.1_img_1.jpg']
+[83231] CONFLICT: Filenames do not match pattern or share same product ID → ['83231.2_img_1.jpg']
+[83231] CONFLICT: Filenames do not match pattern or share same product ID → ['83231.1_img_1.jpg']
+[83232] CONFLICT: Filenames do not match pattern or share same product ID → ['83232.1_img_1.jpg']
+[83232] CONFLICT: Filenames do not match pattern or share same product ID → ['83232.2_img_1.jpg']
+[83292] LOG (83292_img_1.jpg): Tabla nutricional válida por 100 g extraída correctamente.
+[83292] OK: Nutrition values written.
+[83452] LOG (83452_img_1.jpg): Información nutricional extraída correctamente.
+[83452] OK: Nutrition values written.
+[83490] LOG (83490_img_1.jpg): sin tabla nutricional/no alimentario
+[83490] LOG (83490_img_2.jpg): sin tabla nutricional/no alimentario
+[83490] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[83547] LOG (83547_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[83547] OK: Nutrition values written.
+[83558] OK: Nutrition values written.
+[83560] LOG (83560_img_1.jpg): Valores extraídos correctamente. No se encontraron anomalías.
+[83560] OK: Nutrition values written.
+[83728] LOG (83728_img_1.jpg): sin tabla nutricional/no alimentario
+[83728] LOG (83728_img_2.jpg): sin tabla nutricional/no alimentario
+[83728] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[83789] LOG (83789_img_1.jpg): Información nutricional extraída correctamente.
+[83789] OK: Nutrition values written.
+[83869] LOG (83869_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[83869] OK: Nutrition values written.
+[83886] LOG (83886_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[83886] OK: Nutrition values written.
+[83995] LOG (83995_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[83995] OK: Nutrition values written.
+[84284] LOG (84284_img_1.jpg): Conversión de energía de kJ a kcal realizada.
+[84284] OK: Nutrition values written.
+[84287] LOG (84287_img_1.jpg): Conversión de energía de kJ a kcal realizada. No se encontraron valores adicionales no contemplados.
+[84287] OK: Nutrition values written.
+[84289] LOG (84289_img_1.jpg): Conversión de energía de kJ a kcal realizada.
+[84289] OK: Nutrition values written.
+[84429] LOG (84429_img_1.jpg): Conversión de 'Grasas/Lípidos' a 'grasas', 'Hidratos de Carbono' a 'carbohidratos', 'Proteínas' a 'proteinas'.
+[84429] OK: Nutrition values written.
+[84597] LOG (84597_img_1.jpg): Conversión de energía de kJ a kcal realizada. No se encontraron anomalías.
+[84597] OK: Nutrition values written.
+[84629] LOG (84629_img_1.jpg): Valor energético en kJ no convertido. Energía en kcal utilizada.
+[84629] OK: Nutrition values written.
+[84638] LOG (84638_img_1.jpg): Energía en kJ no convertida, se usó kcal.
+[84638] OK: Nutrition values written.
+[84654] LOG (84654_img_1.jpg): Conversión de sodio a sal realizada.
+[84654] OK: Nutrition values written.
+[84676] OK: Nutrition values written.
+[84684] LOG (84684_img_1.jpg): Valor de fibra <0.5 g registrado como 0.5.
+[84684] OK: Nutrition values written.
+[84688] LOG (84688_img_1.jpg): Conversión de energía de kJ a kcal realizada.
+[84688] OK: Nutrition values written.
+[84710] LOG (84710_img_1.jpg): Conversión de 'Lípidos' a 'grasas'. Conversión de 'de los cuales azúcares' a 'azúcares'.
+[84710] OK: Nutrition values written.
+[84736] LOG (84736_img_1.jpg): Conversión de energía de kJ a kcal realizada. Campo 'Fibra alimentaria' no contemplado en el esquema.
+[84736] OK: Nutrition values written.
+[84785] LOG (84785_img_1.jpg): Conversión de 'Grasas/Lípidos' a 'grasas'. Conversión de 'de las cuales/saturados' a 'grasas_saturadas'. Conversión de 'Hidratos de Carbono' a 'carbohidratos'. Conversión de 'de los cuales/azúcares' a 'azúcares'.
+[84785] OK: Nutrition values written.
+[84900] LOG (84900_img_1.jpg): Conversión de 'Lípidos' a 'grasas'. Conversión de 'Hidratos de Carbono' a 'carbohidratos'. Conversión de 'Azúcares' a 'azúcares'. Conversión de 'Proteínas' a 'proteinas'.
+[84900] OK: Nutrition values written.
+[84937] LOG (84937_img_1.jpg): Tabla nutricional válida por 100 g procesada correctamente.
+[84937] OK: Nutrition values written.
+[85028] LOG (85028_img_1.jpg): Conversión de energía de kJ a kcal realizada. Campo 'Fibra Alimentaria' adicional no incluido en el JSON.
+[85028] OK: Nutrition values written.
+[85200] LOG (85200_img_1.jpg): Valor de grasas registrado como <1 g, se usó 1.0. Valor de azúcares registrado como <0.5 g, se usó 0.5.
+[85200] OK: Nutrition values written.
+[85786] LOG (85786_img_1.jpg): Valores extraídos correctamente. No se encontraron campos adicionales ni valores con '<'.
+[85786] OK: Nutrition values written.
+[85787] LOG (85787_img_1.jpg): Valores extraídos correctamente. No se encontraron campos adicionales ni conversiones necesarias.
+[85787] OK: Nutrition values written.
+[85788] LOG (85788_img_1.jpg): Información nutricional extraída correctamente.
+[85788] OK: Nutrition values written.
+[SAVE] Periodic save after 2750 rows → ./data/mercadona_food.csv
+[85793] LOG (85793_img_1.jpg): Información nutricional extraída correctamente.
+[85793] OK: Nutrition values written.
+[85795] LOG (85795_img_1.jpg): Valor energético en kJ no extraído. Información nutricional por 100 g extraída correctamente.
+[85795] OK: Nutrition values written.
+[85827] OK: Nutrition values written.
+[86008] LOG (86008_img_1.jpg): Conversión de energía de kJ a kcal realizada. No se encontraron valores adicionales no contemplados.
+[86008] OK: Nutrition values written.
+[86033] LOG (86033_img_1.jpg): Conversión de comas a puntos decimales realizada. Validación correcta: grasas_saturadas ≤ grasas, azúcares ≤ carbohidratos.
+[86033] OK: Nutrition values written.
+[86039] LOG (86039_img_1.jpg): Campo adicional 'Fibra alimentaria' no contemplado en el esquema.
+[86039] OK: Nutrition values written.
+[86040] LOG (86040_img_1.jpg): Valores extraídos correctamente. No se encontraron anomalías.
+[86040] OK: Nutrition values written.
+[86046] LOG (86046_img_1.jpg): Valor de sal registrado como <0.01 g, se usó 0.01 g.
+[86046] OK: Nutrition values written.
+[86074] LOG (86074_img_1.jpg): Conversión de energía de kJ a kcal realizada.
+[86074] OK: Nutrition values written.
+[86087] LOG (86087_img_1.jpg): Conversión de sodio a sal realizada.
+[86087] OK: Nutrition values written.
+[86117] LOG (86117_img_1.jpg): Tabla nutricional válida por 100 ml. Energía en kJ no extraída. Valores de grasas y grasas saturadas son 0.0 g. Valores de proteínas y sal son 0.0 g y 0.02 g respectivamente.
+[86117] LOG (86117_img_2.jpg): Sin tabla nutricional/no alimentario.
+[86117] OK: Nutrition values written.
+[86118] LOG (86118_img_1.jpg): Conversión de sodio a sal realizada.
+[86118] OK: Nutrition values written.
+[86137] LOG (86137_img_1.jpg): Valor energético redondeado a entero. Azúcares reportado como 0 debido a valor '<'.
+[86137] OK: Nutrition values written.
+[86138] LOG (86138_img_1.jpg): Valor energético en kJ no extraído. Valores de grasas, grasas saturadas, azúcares, proteínas asumidos como 0.0. No hay valores adicionales no contemplados.
+[86138] OK: Nutrition values written.
+[86145] LOG (86145_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[86145] OK: Nutrition values written.
+[86146] LOG (86146_img_1.jpg): Información nutricional extraída correctamente.
+[86146] OK: Nutrition values written.
+[86167] LOG (86167_img_1.jpg): Valor de proteínas registrado como 0.5 debido a '<0,5'.
+[86167] OK: Nutrition values written.
+[86168] LOG (86168_img_1.jpg): Conversión de 'Grasas/Lípidos' a 'grasas'. Conversión de 'de las cuales saturadas' a 'grasas_saturadas'. Conversión de 'Hidratos de Carbono' a 'carbohidratos'. Conversión de 'de los cuales azúcares' a 'azúcares'.
+[86168] OK: Nutrition values written.
+[86190] LOG (86190_img_1.jpg): Valor de sal registrado como 0 g. Azúcares igual a carbohidratos, validación cumplida.
+[86190] OK: Nutrition values written.
+[86202] LOG (86202_img_1.jpg): Tabla nutricional válida por 100 g procesada correctamente.
+[86202] OK: Nutrition values written.
+[86215] LOG (86215_img_1.jpg): Conversión de energía de kJ a kcal realizada. No se encontraron anomalías.
+[86215] OK: Nutrition values written.
+[86232] LOG (86232_img_1.jpg): Sin tabla nutricional por 100 g. Solo se proporciona información por 100 ml.
+[86232] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[86236] LOG (86236_img_1.jpg): Valores extraídos correctamente. No se encontraron campos adicionales ni valores con '<'.
+[86236] OK: Nutrition values written.
+[86238] LOG (86238_img_1.jpg): Valores de carbohidratos y azúcares registrados como 0.9 debido a '<' en la etiqueta.
+[86238] OK: Nutrition values written.
+[86245] LOG (86245_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[86245] OK: Nutrition values written.
+[86276] LOG (86276_img_1.jpg): Valor de carbohidratos y azúcares registrado como 0.5 debido a '<0,5'.
+[86276] OK: Nutrition values written.
+[86288] LOG (86288_img_1.jpg): Valor de grasas registrado como <0.5 g, se usó 0.5 para el JSON.
+[86288] OK: Nutrition values written.
+[86311] LOG (86311_img_1.jpg): Valor de sal registrado como 0.01 debido a '<0,01'.
+[86311] OK: Nutrition values written.
+[86312] LOG (86312_img_1.jpg): Valor de sal registrado como <0.01 g, umbral usado: 0.01.
+[86312] OK: Nutrition values written.
+[86313] LOG (86313_img_1.jpg): Valor de sal registrado como 0.01 debido a '<0,01'.
+[86313] OK: Nutrition values written.
+[86314] LOG (86314_img_1.jpg): Valor de sal registrado como 0.01 debido a '<0,01'.
+[86314] OK: Nutrition values written.
+[86315] LOG (86315_img_1.jpg): Valor de grasas, grasas saturadas, y sal registrado como umbral debido a '<'.
+[86315] OK: Nutrition values written.
+[86316] LOG (86316_img_1.jpg): Valores con '<' ajustados: grasas <0.1 g, grasas saturadas <0.1 g, proteínas <0.5 g, sal <0.01 g.
+[86316] OK: Nutrition values written.
+[86327] LOG (86327_img_1.jpg): Valores extraídos correctamente. No se encontraron campos adicionales ni valores con '<'.
+[86327] OK: Nutrition values written.
+[86328] LOG (86328_img_1.jpg): Conversión de kJ a kcal realizada. No se encontraron valores adicionales no contemplados.
+[86328] OK: Nutrition values written.
+[86330] LOG (86330_img_1.jpg): Valores extraídos correctamente. No se encontraron anomalías.
+[86330] OK: Nutrition values written.
+[86331] LOG (86331_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[86331] OK: Nutrition values written.
+[86333] LOG (86333_img_1.jpg): Valor energético también en kJ no extraído. Todos los valores presentes y consistentes.
+[86333] OK: Nutrition values written.
+[86341] LOG (86341_img_1.jpg): Tabla nutricional válida por 100 g extraída correctamente.
+[86341] OK: Nutrition values written.
+[86348] LOG (86348_img_1.jpg): Conversión de sodio a sal realizada.
+[86348] OK: Nutrition values written.
+[86363] LOG (86363_img_1.jpg): Sin tabla nutricional por 100 g.
+[86363] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[86368] LOG (86368_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[86368] OK: Nutrition values written.
+[86385] LOG (86385_img_1.jpg): Valores extraídos correctamente. No se encontraron campos adicionales ni valores con '<'.
+[86385] OK: Nutrition values written.
+[86386] LOG (86386_img_1.jpg): Tabla nutricional válida por 100 g. No se encontraron campos adicionales ni valores con '<'.
+[86386] OK: Nutrition values written.
+[86387] LOG (86387_img_1.jpg): Valores extraídos correctamente. No se encontraron valores adicionales ni conversiones necesarias.
+[86387] OK: Nutrition values written.
+[86388] LOG (86388_img_1.jpg): Conversión de sodio a sal no necesaria. Valores adicionales de vitaminas no incluidos.
+[86388] OK: Nutrition values written.
+[86390] LOG (86390_img_1.jpg): Tabla nutricional por 100 ml, no por 100 g. Datos extraídos de la tabla por 100 ml.
+[86390] OK: Nutrition values written.
+[86392] LOG (86392_img_1.jpg): Valores extraídos correctamente. No se encontraron campos adicionales ni conversiones necesarias.
+[86392] OK: Nutrition values written.
+[86403] LOG (86403_img_1.jpg): Conversión de sodio a sal no necesaria. Validación cumplida: grasas_saturadas ≤ grasas, azúcares ≤ carbohidratos.
+[86403] OK: Nutrition values written.
+[86404] LOG (86404_img_1.jpg): Valor de azúcares registrado como 0.5 debido a '<0.5 g'.
+[86404] OK: Nutrition values written.
+[SAVE] Periodic save after 2800 rows → ./data/mercadona_food.csv
+[86408] LOG (86408_img_1.jpg): Sin tabla nutricional por 100 g.
+[86408] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[86416] LOG (86416_img_1.jpg): sin tabla nutricional/no alimentario
+[86416] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[86418] LOG (86418_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[86418] OK: Nutrition values written.
+[86419] LOG (86419_img_1.jpg): Conversión de sodio a sal realizada.
+[86419] OK: Nutrition values written.
+[86444] LOG (86444_img_1.jpg): Conversión de energía de kJ a kcal realizada. Todos los valores están dentro de los límites esperados.
+[86444] OK: Nutrition values written.
+[86469] LOG (86469_img_2.jpg): Conversión de sodio a sal realizada. Valor de sodio: 0.076 g, convertido a sal: 0.19 g.
+[86469] OK: Nutrition values written.
+[86483] LOG (86483_img_1.jpg): Sin tabla nutricional/no alimentario.
+[86483] LOG (86483_img_2.jpg): Conversión de sodio a sal no necesaria. Todos los valores están dentro de los límites esperados.
+[86483] OK: Nutrition values written.
+[86505] LOG (86505_img_1.jpg): Valores '<' ajustados a umbral: carbohidratos 0.5, azúcares 0.5, proteinas 0.5.
+[86505] OK: Nutrition values written.
+[86511] LOG (86511_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[86511] OK: Nutrition values written.
+[86547] LOG (86547_img_1.jpg): sin tabla nutricional/no alimentario
+[86547] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[86559] LOG (86559_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[86559] OK: Nutrition values written.
+[86587] OK: Nutrition values written.
+[86588] LOG (86588_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[86588] OK: Nutrition values written.
+[86597] LOG (86597_img_1.jpg): Conversión de valor energético de kJ a kcal realizada. No se encontraron valores adicionales no contemplados.
+[86597] OK: Nutrition values written.
+[86598] LOG (86598_img_1.jpg): Conversión de sodio a sal no necesaria. Energía en kcal confirmada.
+[86598] OK: Nutrition values written.
+[86600] OK: Nutrition values written.
+[86601] LOG (86601_img_1.jpg): Conversión de energía de kJ a kcal realizada. No se encontraron valores adicionales no contemplados.
+[86601] OK: Nutrition values written.
+[86632] LOG (86632_img_1.jpg): Sal convertida de sodio a sal multiplicando por 2.5.
+[86632] OK: Nutrition values written.
+[86656] LOG (86656_img_1.jpg): sin tabla nutricional/no alimentario
+[86656] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[86659] LOG (86659_img_1.jpg): Conversión de sodio a sal realizada. Validación de azúcares ≤ carbohidratos cumplida.
+[86659] OK: Nutrition values written.
+[86684] LOG (86684_img_1.jpg): Valores extraídos correctamente. No se encontraron campos adicionales ni valores con '<'.
+[86684] OK: Nutrition values written.
+[86707] LOG (86707_img_1.jpg): sin tabla nutricional/no alimentario
+[86707] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[86750] LOG (86750_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores presentes y dentro de los límites.
+[86750] OK: Nutrition values written.
+[86755] LOG (86755_img_1.jpg): Valores extraídos correctamente. No se encontraron anomalías.
+[86755] OK: Nutrition values written.
+[86766] LOG (86766_img_1.jpg): Valor de grasas registrado como <0.5 g, se usó 0.5. Valor de proteínas registrado como <0.5 g, se usó 0.5.
+[86766] OK: Nutrition values written.
+[86785] LOG (86785_img_1.jpg): Tabla nutricional válida por 100 g procesada correctamente.
+[86785] OK: Nutrition values written.
+[86786] LOG (86786_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores están dentro de los límites esperados.
+[86786] OK: Nutrition values written.
+[86798] LOG (86798_img_1.jpg): Conversión de 'Energético/Energia' a kcal realizada. Validación correcta: grasas_saturadas ≤ grasas, azúcares ≤ carbohidratos.
+[86798] OK: Nutrition values written.
+[86808] LOG (86808_img_1.jpg): Conversión de 'Lípidos' a 'Grasas'.
+[86808] OK: Nutrition values written.
+[86809] LOG (86809_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores presentes y consistentes.
+[86809] OK: Nutrition values written.
+[86820] LOG (86820_img_1.jpg): Conversión de energía de kJ a kcal realizada. No se encontraron valores adicionales no contemplados.
+[86820] OK: Nutrition values written.
+[86835] LOG (86835_img_1.jpg): Conversión de energía de kJ a kcal realizada. Campo 'fibra alimentaria' no contemplado en el esquema.
+[86835] OK: Nutrition values written.
+[86840] LOG (86840_img_1.jpg): Información nutricional extraída correctamente.
+[86840] OK: Nutrition values written.
+[86866] LOG (86866_img_1.jpg): Sin tabla nutricional/no alimentario.
+[86866] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[86867] LOG (86867_img_1.jpg): Sin tabla nutricional válida por 100 g.
+[86867] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[86905] LOG (86905_img_1.jpg): Valores extraídos de la tabla 'Sin sazonador'.
+[86905] OK: Nutrition values written.
+[86911] LOG (86911_img_1.jpg): Valores extraídos correctamente de la tabla por 100 g.
+[86911] OK: Nutrition values written.
+[86913] LOG (86913_img_1.jpg): Conversión de sodio a sal realizada.
+[86913] OK: Nutrition values written.
+[86918] LOG (86918_img_1.jpg): sin tabla nutricional/no alimentario
+[86918] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[86933] LOG (86933_img_1.jpg): Valor de grasas saturadas es 0, registrado como 0. Valor de sal es 0.01, registrado como 0.01.
+[86933] OK: Nutrition values written.
+[86998] LOG (86998_img_1.jpg): sin tabla nutricional/no alimentario
+[86998] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[87162] LOG (87162_img_1.jpg): Valor de carbohidratos y azúcares registrado como 0.5 debido a '<0,5 g'.
+[87162] OK: Nutrition values written.
+[87163] LOG (87163_img_1.jpg): sin tabla nutricional/no alimentario
+[87163] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[87164] LOG (87164_img_1.jpg): sin tabla nutricional/no alimentario
+[87164] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[87177] LOG (87177_img_1.jpg): Valor de azúcares asumido como 0 debido a ausencia en la tabla.
+[87177] OK: Nutrition values written.
+[87181] LOG (87181_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores presentes y consistentes.
+[87181] OK: Nutrition values written.
+[87197] LOG (87197_img_1.jpg): Valores con '<': grasas <1.0 g, carbohidratos <0.5 g, azúcares <0.1 g. Se usaron los umbrales numéricos.
+[87197] OK: Nutrition values written.
+[87203] LOG (87203_img_1.jpg): sin tabla nutricional/no alimentario
+[87203] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[87204] LOG (87204_img_1.jpg): sin tabla nutricional/no alimentario
+[87204] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[87205] LOG (87205_img_1.jpg): sin tabla nutricional/no alimentario
+[87205] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[87208] LOG (87208_img_1.jpg): sin tabla nutricional/no alimentario
+[87208] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[87211] LOG (87211_img_1.jpg): Valores con '<': grasas <0.5 g, grasas saturadas <0.1 g, carbohidratos <0.5 g, azúcares <0.5 g. Se usaron los umbrales numéricos.
+[87211] OK: Nutrition values written.
+[87254] LOG (87254_img_1.jpg): sin tabla nutricional/no alimentario
+[87254] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[87278] LOG (87278_img_1.jpg): Valores de <0.5 g registrados como 0.5 g para carbohidratos y azúcares.
+[87278] OK: Nutrition values written.
+[87292] LOG (87292_img_1.jpg): Valor de carbohidratos y azúcares registrado como 0.5 debido a '<'.
+[87292] OK: Nutrition values written.
+[87302] LOG (87302_img_1.jpg): sin tabla nutricional/no alimentario
+[87302] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[87313] LOG (87313_img_1.jpg): sin tabla nutricional/no alimentario
+[87313] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[87342] LOG (87342_img_1.jpg): sin tabla nutricional/no alimentario
+[87342] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[87350] LOG (87350_img_1.jpg): Valor de carbohidratos y azúcares registrado como 0.5 debido a '<0.5'.
+[87350] OK: Nutrition values written.
+[87598] LOG (87598_img_1.jpg): Conversión de sodio a sal realizada.
+[87598] OK: Nutrition values written.
+[87599] LOG (87599_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[87599] OK: Nutrition values written.
+[87601] LOG (87601_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[87601] OK: Nutrition values written.
+[87602] LOG (87602_img_1.jpg): Conversión de sodio a sal realizada.
+[87602] OK: Nutrition values written.
+[87607] LOG (87607_img_1.jpg): Conversión de sodio a sal realizada.
+[87607] OK: Nutrition values written.
+[87609] LOG (87609_img_1.jpg): Información nutricional extraída correctamente por 100 g.
+[87609] OK: Nutrition values written.
+[87616] LOG (87616_img_1.jpg): Conversión de energía de kJ a kcal realizada. No se encontraron valores adicionales no contemplados.
+[87616] OK: Nutrition values written.
+[87692] LOG (87692_img_1.jpg): Conversión de sodio a sal no necesaria. No se encontraron valores adicionales no contemplados.
+[87692] OK: Nutrition values written.
+[87731] LOG (87731_img_1.jpg): Conversión de energía de kJ a kcal realizada. No se encontraron anomalías.
+[87731] OK: Nutrition values written.
+[87734] LOG (87734_img_1.jpg): Conversión de kJ a kcal realizada. No se encontraron valores adicionales no contemplados.
+[87734] OK: Nutrition values written.
+[87755] LOG (87755_img_1.jpg): Conversión de sodio a sal no necesaria. Todos los valores extraídos correctamente.
+[87755] OK: Nutrition values written.
+[87775] LOG (87775_img_1.jpg): Valor energético en kJ no extraído. Carbohidratos y azúcares registrados como 0 por ausencia de datos.
+[87775] OK: Nutrition values written.
+[87786] LOG (87786_img_1.jpg): Valor de carbohidratos registrado como 0.5 debido a '<0.5'.
+[87786] OK: Nutrition values written.
+[87789] LOG (87789_img_1.jpg): Tabla nutricional válida por 100 g extraída correctamente.
+[87789] OK: Nutrition values written.
+[87811] LOG (87811_img_1.jpg): sin tabla nutricional/no alimentario
+[87811] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[88180] LOG (88180_img_1.jpg): Valores de carbohidratos y azúcares registrados como 0.5 debido a '<0.5'.
+[88180] OK: Nutrition values written.
+[88407] LOG (88407_img_1.jpg): sin tabla nutricional/no alimentario
+[88407] INFO: No 'datos' parsed from any image. Leaving NaNs.
+[90933] LOG (90933_img_1.jpg): Conversión de valor energético de kJ a kcal realizada. Valor de azúcares registrado como 0 debido a ausencia de valor específico.
+[90933] OK: Nutrition values written.
+[DONE] Saved: ./data/mercadona_food.csv
