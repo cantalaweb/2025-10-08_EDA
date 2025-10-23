@@ -1,0 +1,57 @@
+.
+├── data
+│		 ├── food_ready_for_EDA.csv
+│		 ├── img
+│		 │		 ├── 10005_img_0.jpg
+│		 │		 ├── 10005_img_1.jpg
+│		 │		 ├── 10043_img_0.jpg
+│		 │		 ├── 10043_img_1.jpg
+│		 │		 ├── 10050_img_0.jpg
+│		 │		 ├── 10050_img_1.jpg
+│		 │		 ├── 9995_img_0.jpg
+│		 │		 └── 9995_img_1.jpg
+│		 ├── mercadona_food_final.csv
+│		 ├── mercadona_food_no_nutri.csv
+│		 ├── mercadona_food.csv
+│		 └── mercadona.csv
+├── presentation
+│		 └── img
+│		     ├── boxplots_1.png
+│		     ├── boxplots_2.png
+│		     ├── congelador.jpeg
+│		     ├── despensa.jpeg
+│		     ├── histograma_de_azúcares.png
+│		     ├── histograma_de_carbohidratos.png
+│		     ├── histograma_de_grasas_saturadas.png
+│		     ├── histograma_de_grasas.png
+│		     ├── histograma_de_mixed_score.png
+│		     ├── histograma_de_nova_score.png
+│		     ├── histograma_de_proteinas.png
+│		     ├── histograma_de_sal.png
+│		     ├── histograma_de_valor_energético.png
+│		     ├── logo-mercadona.png
+│		     ├── pearson_corr_heatmap.png
+│		     ├── productos_por_nivel_NOVA.png
+│		     ├── productos_por_salubridad.png
+│		     └── productos_UPF_por_salubridad.png
+├── prompts
+│		 ├── nutri_prompt.md
+│		 ├── nutri_script.md
+│		 ├── scraper_script.md
+│		 └── semáforos.md
+├── pyproject.toml
+├── README.md
+├── ruff.toml
+├── src
+│		 ├── __pycache__
+│		 │		 └── utils.cpython-311.pyc
+│		 ├── EDA.ipynb
+│		 ├── mercadona_scraper.py
+│		 ├── nutri.log
+│		 ├── nutri.py
+│		 ├── semáforos.py
+│		 └── utils.py
+├── tree.txt
+└── uv.lock
+
+8 directories, 9850 files

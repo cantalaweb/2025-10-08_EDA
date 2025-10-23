@@ -1,8 +1,15 @@
 <!-- Title -->
-<h1 align='center'> EDA </h1>
+<h1 align='center'> Análisis Nutricional de Productos de Mercadona </h1>
 
-<!-- tag line -->
-<h3 align='center'> Lorem ipsum dolor sit amet, consectetur adipiscing elit </h3>
+<p align='center'>
+    <img src='./presentation/img/logo-mercadona.png' width='400' />
+</p>
+
+Autor: Diego Cantalapiedra de la Fuente
+Fecha: Octubre 2025
+Contexto: Proyecto final del Bootcamp de Data Science - The Bridge | Digital Talent Accelerator
+
+---
 
 <!-- tech stack badges ---------------------------------- -->
 <p align='center'>
@@ -14,141 +21,463 @@
     <a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff" alt="Pandas"></a>
     <!-- Matplotlib -->
     <a href="https://matplotlib.org"><img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" alt="Matplotlib"></a>
-    <!-- Apache Spark -->
-    <a href="https://pypi.org/project/pyspark/"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff" alt="Apache Spark"></a>
-    <!-- Chart.js -->
-    <a href="https://www.chartjs.org/"><img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff" alt="Chart.js"></a>
-    <!-- Databricks -->
-    <a href="https://www.databricks.com/"><img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff" alt="Databricks"></a>
-    <!-- ETL -->
-    <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff" alt="ETL"></a>
-    <!-- Google Colab -->
-    <a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff" alt="Google Colab"></a>
     <!-- Seaborn -->
     <a href="https://seaborn.pydata.org"><img src="https://img.shields.io/badge/Seaborn-grey?logo=Seaborn" alt="Seaborn"></a>
-    <!-- Tensorflow -->
-    <a href="https://www.tensorflow.org/learn"><img src="https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
-    <!-- Keras -->
-    <a href="https://keras.io"><img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff" alt="Keras"></a>
-    <!-- Scikit-learn -->
-    <a href="https://scikit-learn.org/stable/index.html"><img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a>
-    <!-- Snowflake -->
-    <a href="https://www.snowflake.com/en/"><img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff" alt="Snowflake"></a>
-    <!-- Tableau -->
-    <a href="https://www.tableau.com/tableau-login-hub"><img src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff" alt="Tableau"></a>
-    <!-- MySQL -->
-    <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL"></a>
-    <!-- PostgreSQL -->
-    <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
-    <!-- SQLite -->
-    <a href="https://sqlite.org/index.html"><img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" alt="SQLite"></a>
-    <!-- Firebase -->
-    <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" alt="Firebase"></a>
-    <!-- InfluxDB -->
-    <a href="https://www.influxdata.com/"><img src="https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=fff" alt="InfluxDB"></a>
-    <!-- MongoDB -->
-    <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="MongoDB"></a>
-    <!-- Microsoft Power BI -->
-    <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/"><img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" alt="Power BI"></a>
-    <!-- AWS -->
-    <a href="https://aws.amazon.com"><img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" alt="AWS"></a>
-    <!-- Postman -->
-    <a href="https://www.postman.com/web"><img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"></a>
-    <!-- Swagger -->
-    <a href="https://swagger.io/"><img src="https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000" alt="Swagger"></a>
     <!-- ChatGPT -->
     <a href="https://chatgpt.com"><img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" alt="ChatGPT"></a>
-    <!-- Google Gemini -->
-    <a href="https://gemini.google.com/app"><img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" alt="Google Gemini"></a>
-    <!-- Figma -->
-    <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma"></a>
-    <!-- Anaconda -->
-    <a href="https://www.anaconda.com"><img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff" alt="Anaconda"></a>
-    <!-- Cypress -->
-    <a href="https://www.cypress.io"><img src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff" alt="Cypress"></a>
-    <!-- Django -->
-    <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" alt="Django"></a>
-    <!-- Docker -->
-    <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker"></a>
-    <!-- Express.js -->
-    <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="Express.js"></a>
-    <!-- FastAPI -->
-    <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" alt="FastAPI"></a>
-    <!-- Flask -->
-    <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" alt="Flask"></a>
-    <!-- Jest -->
-    <a href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff" alt="Jest"></img></a>
-    <!-- Node.js -->
-    <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="Node.js"></a>
-    <!-- PyTorch -->
-    <a href="https://pytorch.org/ecosystem/"><img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white" alt="PyTorch"></a>
-    <!-- React -->
-    <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React"></a>
-    <!-- Vite -->
-    <a href="https://vite.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" alt="Vite"></a>
-    <!-- Vitest -->
-    <a href="https://vitest.dev/"><img src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff" alt="Vitest"></a>
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
-    <!-- iOS -->
-    <a href="https://www.apple.com/ios/"><img src="https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white" alt="iOS"></a>
-    <!-- macOS -->
-    <a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0" alt="macOS"></a>
-    <!-- Sequelize -->
-    <a href="https://sequelize.org/"><img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=fff" alt="Sequelize"></a>
-    <!-- Bash -->
-    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash"></a>
-    <!-- CSS -->
-    <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="CSS"></a>
-    <!-- HTML -->
-    <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML"></a>
-    <!-- JavaScript -->
-    <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript"></a>
-    <!-- JSON -->
-    <a href="https://json.org/"><img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" alt="JSON"></a>
-    <!-- Lua -->
-    <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white" alt="Lua"></a>
-    <!-- Markdown -->
-    <a href="https://daringfireball.net/projects/markdown/syntax"><img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" alt="Markdown"></a>
-    <!-- Perl -->
-    <a href="https://www.perl.org/"><img src="https://img.shields.io/badge/Perl-%2339457E.svg?logo=perl&logoColor=white" alt="Perl"></a>
-    <!-- R -->
-    <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white" alt="R"></a>
-    <!-- Rust -->
-    <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white" alt="Rust"></a>
-    <!-- Swift -->
-    <a href="https://www.swift.org/"><img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white" alt="Swift"></a>
-    <!-- TypeScript -->
-    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript"></a>
-    <!-- XML -->
-    <a href="http://www.w3.org/XML"><img src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff" alt="XML"></a>
-    <!-- GitHub -->
-    <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"></a>
-    <!-- X -->
-    <a href="https://x.com/home"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X"></a>
-    <!-- YouTube -->
-    <a href="https://www.youtube.com"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
-    <!-- Git -->
-    <a href="https://git-scm.com/downloads"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git"></a>
-    <!-- Website status -->
-    <a href="https://shields.io/"><img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="Website"></a>
-    <a href="#"><img src="https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg" alt="Website"></a>
+    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 </p>
 <br/>
 
-## Introduction
 
-<img src='home_screen.png' width='400' />
+## Tabla de Contenidos
 
-## Requirements
+- [Introducción](#introducción)
+- [Hipótesis](#hipótesis)
+- [Objetivos](#objetivos)
+- [Metodología](#metodología)
+- [Estructura del Proyecto](#estructura-del-proyecto)
+- [Requerimientos](#requerimientos)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Sistemas de Clasificación](#sistemas-de-clasificación)
+- [Limitaciones](#limitaciones)
+- [Trabajo Futuro](#trabajo-futuro)
+- [Licencia](#licencia)
+- [Agradecimientos](#agradecimientos)
 
-- [Python 3.11.9](https://www.python.org) must be installed.
+---
 
-## Installation
+## Introducción
 
-1.
-2.
+Este proyecto analiza la calidad nutricional y el grado de procesamiento de los productos alimenticios disponibles en Mercadona, una de las principales cadenas de supermercados de España. Utilizando técnicas de web scraping, procesamiento de imágenes con IA (GPT-4o) y análisis de datos, se evalúan más de **3,000 productos** para determinar su impacto en la salud pública.
 
-## Usage
+El análisis combina múltiples sistemas de clasificación nutricional reconocidos internacionalmente:
+- **Sistema de semáforos nutricionales** (UK Food Standards Agency)
+- **Clasificación NOVA** (nivel de procesamiento industrial)
+- **Puntuación mixta personalizada** que combina ambos criterios
 
-## Limitations
+---
+
+## Hipótesis
+
+**Hipótesis principal:**  
+> "El 70-75% de la comida disponible en un supermercado es ultraprocesada (NOVA-4), y de ella, un alto porcentaje es nutricionalmente insalubre."
+
+Esta hipótesis surge de la preocupación creciente sobre la prevalencia de alimentos ultraprocesados (UPF - Ultra-Processed Foods) en los supermercados modernos y su relación con problemas de salud pública como la obesidad, diabetes tipo 2 y enfermedades cardiovasculares.
+
+---
+
+## Objetivos
+
+### Objetivo Principal
+Validar o refutar la hipótesis sobre la proporción de alimentos ultraprocesados e insalubres en el catálogo de Mercadona.
+
+### Objetivos Secundarios
+1. **Extraer y estructurar** información nutricional de productos mediante scraping e IA.
+2. **Clasificar productos** según su nivel de procesamiento (sistema NOVA).
+3. **Evaluar la calidad nutricional** usando el sistema de semáforos del Reino Unido.
+4. **Desarrollar una métrica combinada** que integre procesamiento y nutrición.
+5. **Visualizar patrones** en los datos mediante análisis exploratorio (EDA).
+6. **Identificar categorías** de productos más y menos saludables.
+
+---
+
+## Metodología
+
+### 1. Extracción de Datos (Web Scraping)
+- **Script:** `mercadona_scraper.py`
+- **Fuente:** API privada de Mercadona (`tienda.mercadona.es/api`)
+- **Datos extraídos:**
+  - Metadatos de productos (nombre, categoría, precio, ingredientes, etc).
+  - Imágenes de productos (del producto y de sus etiquetas).
+  - Información nutricional básica cuando está disponible.
+
+### 2. Procesamiento de Información Nutricional
+- **Script:** `nutri.py`
+- **Método:** Extracción mediante GPT-4o Vision
+- **Proceso:**
+  - Lectura automática de tablas nutricionales en imágenes.
+  - Validación cruzada entre múltiples imágenes del mismo producto.
+  - Consenso o promedio cuando hay discrepancias.
+- **Campos extraídos:**
+  - Valor energético (kcal/100g)
+  - Grasas totales (g/100g)
+  - Grasas saturadas (g/100g)
+  - Carbohidratos (g/100g)
+  - Azúcares (g/100g)
+  - Proteínas (g/100g)
+  - Sal (g/100g)
+
+### 3. Clasificación y Análisis
+- **Script:** `semáforos.py`
+- **Funciones principales:**
+  - `add_traffic_lights()`: Semáforos nutricionales (verde/ámbar/rojo).
+  - `add_nova_from_ingredients()`: Clasificación NOVA basada en ingredientes.
+  - `add_mixed_score()`: Puntuación compuesta (0-100).
+
+### 4. Análisis Exploratorio de Datos
+- **Notebook:** `EDA.ipynb`
+- **Análisis realizados:**
+  - Distribuciones de macronutrientes.
+  - Correlaciones entre variables nutricionales.
+  - Análisis por categoría NOVA.
+  - Análisis de semáforos nutricionales.
+  - Visualizaciones comparativas.
+
+---
+
+## Estructura del Proyecto
+
+```
+.
+├── data/                           # Datos del proyecto
+│   ├── mercadona.csv              # Datos brutos del scraping
+│   ├── mercadona_food_no_nutri.csv # Productos sin info nutricional
+│   ├── mercadona_food.csv         # Productos con info nutricional
+│   ├── mercadona_food_final.csv   # Dataset final con clasificaciones
+│   ├── food_ready_for_EDA.csv     # Dataset limpio para análisis
+│   └── img/                       # Imágenes de productos
+│       ├── 9995_img_0.jpg
+│       ├── 9995_img_1.jpg
+│       └── ...
+│
+├── src/                           # Código fuente
+│   ├── mercadona_scraper.py       # Scraper de la API de Mercadona
+│   ├── nutri.py                   # Extracción de info nutricional con IA
+│   ├── semáforos.py               # Clasificación nutricional y NOVA
+│   ├── utils.py                   # Funciones auxiliares
+│   └── EDA.ipynb                  # Análisis exploratorio de datos
+│
+├── prompts/                       # Prompts para GPT-4o
+│   ├── nutri_prompt.md           # Prompt para extracción nutricional
+│   ├── nutri_script.md
+│   ├── scraper_script.md
+│   └── semáforos.md
+│
+├── presentation/                  # Recursos para presentación
+│   └── img/                      # Gráficos y visualizaciones
+│       ├── histograma_de_azúcares.png
+│       ├── histograma_de_nova_score.png
+│       ├── productos_por_nivel_NOVA.png
+│       ├── productos_por_salubridad.png
+│       └── ...
+│
+├── pyproject.toml                # Configuración del proyecto (uv)
+├── uv.lock                       # Archivo de bloqueo de dependencias
+├── ruff.toml                     # Configuración del linter
+└── README.md                     # Este archivo
+```
+
+---
+
+## Requerimientos
+
+### Software
+- **Python:** 3.11 o superior
+- **Gestor de paquetes:** `uv` (recomendado) o `pip`
+- **API Key:** OpenAI (para GPT-4o)
+
+### Librerías Principales
+```toml
+pandas >= 2.0.0
+numpy >= 1.24.0
+requests >= 2.31.0
+beautifulsoup4 >= 4.12.0
+openai >= 1.0.0
+python-dotenv >= 1.0.0
+matplotlib >= 3.7.0
+seaborn >= 0.12.0
+jupyter >= 1.0.0
+```
+
+---
+
+## Instalación
+
+### 1. Clonar el repositorio
+```bash
+git clone https://github.com/cantalaweb/2025-10-08_EDA.git
+cd 2025-10-08_EDA
+```
+
+### 2. Configurar el entorno virtual (opción A - con uv)
+```bash
+# Instalar uv si no lo tienes
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# Crear entorno e instalar dependencias
+uv sync
+```
+
+### 2. Configurar el entorno virtual (opción B - con pip)
+```bash
+# Crear entorno virtual
+python -m venv venv
+
+# Activar entorno
+source venv/bin/activate  # Linux/Mac
+# o
+venv\Scripts\activate  # Windows
+
+# Instalar dependencias
+pip install -r requirements.txt
+```
+
+### 3. Configurar variables de entorno
+Crea un archivo `.env` en la raíz del proyecto:
+```bash
+OPENAI_API_KEY=tu_api_key_aqui
+```
+
+---
+
+## Uso
+Seguir  mejor el proceso en el notebook de Jupyter `EDA.ipynb`. Lo descrito a continuación es un mero resumen de la ejecución de los scripts adicionales.
+
+### Paso 1: Extracción de Datos (Web Scraping)
+
+```bash
+cd src
+python mercadona_scraper.py
+```
+
+**Salidas:**
+- `data/mercadona.csv`: Dataset completo con metadatos
+- `data/img/`: Imágenes de productos descargadas
+
+**Tiempo estimado:** 2-4 horas (dependiendo de la conexión)
+
+---
+
+### Paso 2: Extracción de Información Nutricional
+
+```bash
+python nutri.py
+```
+
+**Configuración en `nutri.py`:**
+```python
+updated = utils.extract_nutrition_to_df(
+    df,
+    images_dir="./data/img",
+    prompt_path="./prompts/nutri_prompt.md",
+    model="gpt-4o",
+    start_from_id=None,     # Iniciar desde un ID específico (opcional)
+    save_every=50,          # Guardar progreso cada N productos
+    out_csv_path="./data/mercadona_food.csv",
+)
+```
+
+**Salidas:**
+- `data/mercadona_food.csv`: Dataset con información nutricional extraída
+- `nutri.log`: Log del proceso
+
+**Tiempo estimado:** 6-12 horas para ~3,000 productos  
+**Coste estimado:** ~$17 USD en créditos de OpenAI
+
+---
+
+### Paso 3: Clasificación Nutricional y NOVA
+
+```bash
+python semáforos.py
+```
+
+**Salidas:**
+- `data/mercadona_food_final.csv`: Dataset final con todas las clasificaciones
+
+**Columnas añadidas:**
+- `tl_fat`, `tl_sat`, `tl_sugars`, `tl_salt`: Semáforos (green/amber/red)
+- `nova_label`: Clasificación NOVA (Min/Ingred, Procesado, UPF)
+- `nova_score`: Puntuación NOVA (0-5+)
+- `mixed_score`: Puntuación mixta (0-100)
+- `mixed_label`: Etiqueta final (Saludable/A valorar/No saludable)
+
+---
+
+### Paso 4: Análisis Exploratorio
+
+```bash
+jupyter notebook src/EDA.ipynb
+```
+
+El notebook incluye:
+- Estadísticas descriptivas
+- Distribuciones de macronutrientes
+- Análisis de correlaciones
+- Visualizaciones por categoría NOVA
+- Análisis de semáforos nutricionales
+- Gráficos comparativos por categoría de producto
+
+---
+
+## Sistemas de Clasificación
+
+### 1. Semáforos Nutricionales (UK FSA)
+
+Sistema de colores basado en los umbrales de la Food Standards Agency del Reino Unido:
+
+| Nutriente | Verde | Ámbar | Rojo |
+|-----------|-------|-------|------|
+| **Grasas** | ≤ 3g | 3-17.5g | > 17.5g |
+| **Grasas Saturadas** | ≤ 1.5g | 1.5-5g | > 5g |
+| **Azúcares** | ≤ 5g | 5-22.5g | > 22.5g |
+| **Sal** | ≤ 0.3g | 0.3-1.5g | > 1.5g |
+
+*Valores por 100g de producto*
+
+---
+
+### 2. Clasificación NOVA
+
+Sistema desarrollado por la Universidad de São Paulo que clasifica alimentos según su grado de procesamiento:
+
+#### **NOVA-1: Alimentos sin procesar o mínimamente procesados**
+- Frutas, verduras, legumbres, carne fresca, huevos, leche
+- **Ejemplo:** Manzanas, lentejas secas, pechuga de pollo fresca.
+
+#### **NOVA-2: Ingredientes culinarios procesados**
+- Aceites, mantequilla, azúcar, sal.
+- **Ejemplo:** Aceite de oliva virgen extra, sal marina.
+
+#### **NOVA-3: Alimentos procesados**
+- Productos con 2-3 ingredientes, procesados con métodos tradicionales.
+- **Ejemplo:** Conservas vegetales, quesos, pan artesanal, legumbres en conserva.
+
+#### **NOVA-4: Alimentos ultraprocesados (UPF)**
+- Productos con ≥5 ingredientes, contienen aditivos, edulcorantes, etc.
+- **Ejemplo:** Refrescos, bollería industrial, platos preparados, snacks.
+
+**Criterios de detección automática:**
+- Presencia de códigos E (E-100 a E-1520).
+- Edulcorantes artificiales (aspartamo, sucralosa, etc.).
+- Ingredientes industriales (jarabes, proteínas aisladas, maltodextrina).
+- Aditivos cosméticos (aromas, colorantes, potenciadores del sabor).
+- Clases tecnológicas (conservadores, estabilizantes, emulgentes).
+
+---
+
+### 3. Puntuación Mixta (Mixed Score)
+
+Métrica compuesta que integra nutrición y procesamiento:
+
+```
+Mixed Score = 0.6 × N_norm + 0.4 × P_norm
+```
+
+Donde:
+- **N_norm:** Puntuación nutricional (0-100) basada en semáforos.
+  - Verde = 2 puntos, Ámbar = 1 punto, Rojo = 0 puntos
+  - Normalizado: `(puntos / 8) × 100`
+- **P_norm:** Puntuación de procesamiento (0-100) basada en NOVA.
+  - NOVA-1/2 = 3 puntos (100%)
+  - NOVA-3 = 2 puntos (66.7%)
+  - NOVA-4 = 0 puntos (0%)
+
+**Guardarraíles especiales:**
+- Aceites vírgenes de un solo ingrediente: Se perdona el semáforo rojo en grasas.
+- Frutos secos 100%: Se perdona el semáforo rojo en grasas.
+- Bebidas con edulcorantes: Penalización automática.
+
+**Clasificación final:**
+- **Saludable:** Mixed Score ≥ 75
+- **A valorar:** Mixed Score 55-74
+- **No saludable:** Mixed Score < 55
+
+---
+
+## Limitaciones
+
+1. **Muestra específica:** Análisis limitado a Mercadona, no extrapolable a todas las cadenas.
+2. **Clasificación NOVA automatizada:** Basada en reglas heurísticas, puede tener falsos positivos/negativos.
+3. **OCR con IA:** La extracción nutricional puede contener errores en productos con imágenes de baja calidad.
+4. **Productos sin imagen:** Algunos productos no tienen tabla nutricional visible.
+5. **Cambios temporales:** El catálogo de productos varía con el tiempo.
+6. **Contexto cultural:** Los umbrales del sistema de semáforos son del Reino Unido, no de España.
+
+---
+
+## Trabajo Futuro
+
+### Mejoras Técnicas
+- [ ] Implementar validación manual de una muestra aleatoria.
+- [ ] Añadir sistema de clasificación Nutri-Score (Francia).
+- [ ] Desarrollar modelo de ML para clasificación NOVA.
+- [ ] Crear dashboard interactivo con Streamlit/Dash.
+
+### Análisis Adicionales
+- [ ] Comparativa entre cadenas de supermercados.
+- [ ] Análisis temporal de cambios en el catálogo.
+- [ ] Estudio de precios vs. calidad nutricional.
+- [ ] Análisis de marketing vs. realidad nutricional.
+- [ ] Analizar la diferencia entre aguas y refrescos, que estaban jubtos en la misma categoría. Y de Postres y yogures, Pizzas y platos preparados, Charcutería y quesos.
+- [ ] La categoría Bebés sólo contiene potitos, y salen saludables en su gran mayoría. Sin embargo, no hay categoría que reúna todos aquellos alimentos cuyo marketing está dirigido a niños. Sería muy interesante crear una nueva categoría para estos alimentos y poder ver cómo de saludables son en su conjunto.
+
+---
+
+## Licencia
+
+Este proyecto está bajo la licencia MIT. Ver el archivo `LICENSE` para más detalles.
+
+```
+MIT License
+
+Copyright (c) 2025 Diego Cantalapiedra de la Fuente
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+---
+
+## Agradecimientos
+
+- **Borja Barber**: Por sus conocimientos, paciencia y apoyo.
+- **The Bridge**: Por la formación en Data Science y el apoyo durante el bootcamp.
+- **Mercadona**: Por mantener una API accesible, aunque sea privada.
+- **OpenAI**: Por proporcionar la tecnología GPT-4o para extracción de información.
+- **Universidad de São Paulo**: Por desarrollar la clasificación NOVA.
+- **UK Food Standards Agency**: Por el sistema de semáforos nutricionales.
+
+---
+
+## Contacto
+
+**Diego Cantalapiedra de la Fuente**
+
+- GitHub: [@cantalaweb](https://github.com/cantalaweb)
+- LinkedIn: (https://www.linkedin.com/in/diego-cantalapiedra-09a4577/)
+- Email: source@cantalaweb.com
+
+---
+
+## Referencias
+
+1. Monteiro CA, et al. (2019). "Ultra-processed foods: what they are and how to identify them." *Public Health Nutrition*, 22(5), 936-941.
+2. UK Food Standards Agency. (2013). "Guide to creating a front of pack (FoP) nutrition label for pre-packed products sold through retail outlets."
+3. World Health Organization. (2015). "Guideline: Sugars intake for adults and children."
+4. Pan American Health Organization. (2015). "Ultra-processed food and drink products in Latin America: Trends, impact on obesity, policy implications."
+
+---
+
+**⭐ Si este proyecto te ha sido útil, considera darle una estrella en GitHub**
+
+---
+
+*Última actualización: Octubre 2025*
