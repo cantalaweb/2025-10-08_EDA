@@ -6,8 +6,12 @@
 </p>
 
 Autor: Diego Cantalapiedra de la Fuente
+
 Fecha: Octubre 2025
+
 Contexto: Proyecto final del Bootcamp de Data Science - The Bridge | Digital Talent Accelerator
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
@@ -25,7 +29,6 @@ Contexto: Proyecto final del Bootcamp de Data Science - The Bridge | Digital Tal
     <a href="https://seaborn.pydata.org"><img src="https://img.shields.io/badge/Seaborn-grey?logo=Seaborn" alt="Seaborn"></a>
     <!-- ChatGPT -->
     <a href="https://chatgpt.com"><img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" alt="ChatGPT"></a>
-    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 </p>
 <br/>
 
