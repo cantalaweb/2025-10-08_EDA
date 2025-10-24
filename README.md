@@ -65,7 +65,7 @@ El análisis combina múltiples sistemas de clasificación nutricional reconocid
 ## Hipótesis
 
 **Hipótesis principal:**  
-> "El 70-75% de la comida disponible en un supermercado es ultraprocesada (NOVA-4), y de ella, un alto porcentaje es nutricionalmente insalubre."
+> "El 70-75% de la comida disponible en un supermercado es ultraprocesada, y de ella, un alto porcentaje es nutricionalmente insalubre".
 
 Esta hipótesis surge de la preocupación creciente sobre la prevalencia de alimentos ultraprocesados (UPF - Ultra-Processed Foods) en los supermercados modernos y su relación con problemas de salud pública como la obesidad, diabetes tipo 2 y enfermedades cardiovasculares.
 
